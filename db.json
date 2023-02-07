@@ -1,0 +1,163 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "Куртка Harley",
+      "price": 2100,
+      "article": "T1",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "2.jpg",
+      "name": "Куртка Leyla",
+      "price": 3150,
+      "article": "T2",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "3.jpg",
+      "name": "Куртка Leyla",
+      "price": 4200,
+      "article": "T3",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "4.jpg",
+      "name": "Куртка Hugo Boss",
+      "price": 5300,
+      "article": "T4",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "5.jpg",
+      "name": "Тренч Loran",
+      "price": 6500,
+      "article": "T5",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "6.jpeg",
+      "name": "Куртка Leyla",
+      "price": 3700,
+      "article": "T6",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "7.jpg",
+      "name": "Куртка Leyla",
+      "price": 3600,
+      "article": "T7",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "8.jpg",
+      "name": "Пуховик Leyla",
+      "price": 5400,
+      "article": "T8",
+      "available": true,
+      "category": "Женские"
+    },{
+      "image": "9.jpg",
+      "name": "Куртка Leyla",
+      "price": 2450,
+      "article": "T9",
+      "available": true,
+      "category": "Женские"
+    }
+    ,{
+      "image": "10.jpg",
+      "name": "Куртка Leyla",
+      "price": 2300,
+      "article": "T10",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "11.jpg",
+      "name": "Куртка Hugo Boss",
+      "price": 4100,
+      "article": "T11",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "12.jpg",
+      "name": "Куртка Hugo Boss",
+      "price": 3300,
+      "article": "T12",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "13.jpg",
+      "name": "Куртка Hugo Boss",
+      "price": 3200,
+      "article": "T13",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "14.jpg",
+      "name": "Куртка Hugo Boss",
+      "price": 4200,
+      "article": "T14",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "15.jpg",
+      "name": "Тренч Loran",
+      "price": 4700,
+      "article": "T15",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "16.jpg",
+      "name": "Тренч Loran",
+      "price": 4000,
+      "article": "T16",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "17.jpg",
+      "name": "Куртка Harley",
+      "price": 3200,
+      "article": "T17",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "18.jpg",
+      "name": "Куртка Paul",
+      "price": 2500,
+      "article": "T18",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "19.jpg",
+      "name": "Куртка Hugo",
+      "price": 3700,
+      "article": "T19",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "20.jpg",
+      "name": "Пуховик Hugo",
+      "price": 4100,
+      "article": "T20",
+      "available": true,
+      "category": "Женские"
+    }
+  ]
+}
